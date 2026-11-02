@@ -1,0 +1,17 @@
+{
+  "name": "АГР НАЛАДИКС",
+  "short_name": "НАЛАДИКС",
+  "description": "Инструмент наладчика: смены, отчёты, неисправности и справочная информация.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a2222",
+  "theme_color": "#1a2222",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
